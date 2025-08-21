@@ -14,3 +14,7 @@ __pycache__/
 # Build artifacts
 *.zip
 coverage/
+
+# local backups
+apps/web._skeleton_backup/
+apps/web._skeleton_backup_*/
